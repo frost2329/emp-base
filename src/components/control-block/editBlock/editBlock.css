@@ -1,0 +1,36 @@
+.editBlock {
+    background-color: #fff;
+    height: 210px;
+    text-align: left;
+    margin-bottom: 10px;
+    border: 2px solid lightskyblue;
+    text-align: left;
+}
+.editBlock div {
+    margin: 5px;
+}
+.editBlock div.headerBlock {
+    margin: 0;
+    color: white;
+    background-color: lightskyblue;
+    font-size: 20px;
+    height: 30px;
+}
+.editBlock div.headerBlock p {
+    margin: 0;
+    margin-left: 5px;
+}
+
+.editBlock button {
+    height: 30px;
+    color: #000;
+    margin-right: 5px;
+    background-color: lightskyblue;
+    border: none;
+
+}
+.editBlock button:active {
+    outline: none;
+    color: white;
+
+}

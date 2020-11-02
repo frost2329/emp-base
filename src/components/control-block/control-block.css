@@ -1,0 +1,25 @@
+.uprBlock {
+    background-color: #ffffff;
+    float: left;
+    width: 510px;
+    height: 560px;
+}
+.controlButtons {
+    text-align: left;
+    margin-bottom: 10px;
+}
+.controlButtons button {
+    height: 30px;
+    color: #000;
+    margin-right: 5px;
+    background-color: lightskyblue;
+    border: none;
+
+}
+.controlButtons button:active {
+    outline: none;
+}
+.controlButtons button:focus {
+    outline: none;
+    color: white;
+}

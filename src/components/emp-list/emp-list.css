@@ -1,0 +1,37 @@
+.listBlock {
+    background-color: #ffffff;
+    width: 300px;
+    float: left;
+    margin-right: 50px;
+    height: 600px;
+    border: 2px solid lightskyblue;
+
+}
+.listBlock div.headerBlock {
+    margin: 0;
+    color: white;
+    background-color: lightskyblue;
+    font-size: 20px;
+    height: 30px;
+}
+.listBlock div.headerBlock p {
+    margin: 0;
+    margin-left: 5px;
+}
+
+.list {
+    float: left;
+    width: 300px;
+    height: 600px;
+    background-color: #ffffff;
+    overflow: auto;
+    text-align: left;
+}
+.list .nav {
+    text-decoration: none;
+    color: black;
+}
+.list .nav:hover {
+    text-decoration: none;
+    color: black;
+}

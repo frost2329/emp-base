@@ -1,0 +1,21 @@
+.infoblock {
+    background-color: #fff;
+    height: 140px;
+    text-align: left;
+    margin-bottom: 10px;
+    border: 2px solid lightskyblue;
+}
+.infoblock div {
+    color: white;
+    background-color: lightskyblue;
+    font-size: 20px;
+}
+.infoblock p {
+    margin: 0;
+    margin-left: 5px;
+}
+
+.infoblock span {
+    margin-left: 5px;
+    margin-top: 5px;
+}
