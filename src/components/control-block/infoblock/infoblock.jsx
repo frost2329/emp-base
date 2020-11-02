@@ -1,7 +1,7 @@
 import './infoblock.css';
 const InfoBlock = (props) => {
     return (
-        <div className="infoblock">
+        <div className="infoBlock">
             <div><p>Карточка сотрудника</p></div>
             <span>ФИО: {props.employeeActive.name}</span><br/>
             <span>Должность: {props.employeeActive.position}</span><br/>

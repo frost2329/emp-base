@@ -23,15 +23,13 @@
 
 .addBlock button {
     height: 30px;
-    color: #000;
+    color: white;
     margin-right: 5px;
     background-color: lightskyblue;
     border: none;
 
 }
 .addBlock button:active {
-    outline: none;
-    color: white;
-
+    outline: 2px solid cornflowerblue;
 }
 
